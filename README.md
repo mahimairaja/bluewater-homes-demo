@@ -7,9 +7,11 @@ It exists so anyone can try [RealtyRecall](https://realtyrecall.mahimai.ca): pas
 URL into the console and watch one link fan out into all 6 listings plus an
 inferred realtor profile.
 
-Pure static HTML with schema.org JSON-LD, OpenGraph, and a sitemap, so onboarding extracts the
-listings deterministically (no AI key required for the listing data).
+Professional static site: schema.org JSON-LD, OpenGraph, and a sitemap, so onboarding extracts
+the listings deterministically (no AI key required for the listing data). Photography from
+[Pexels](https://www.pexels.com), resolved at build time into `assets/photos.json`.
 
-Regenerate after changing `scripts/build.py`:
+Rebuild (photos cached; the key is only needed to refresh them, and never lands in output):
 
-    python3 scripts/build.py https://your-deployed-url.vercel.app
+    python3 scripts/build.py                          # reuse cached photos
+    PEXELS_API_KEY=... python3 scripts/build.py --refresh-photos

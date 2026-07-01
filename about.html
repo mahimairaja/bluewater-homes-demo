@@ -6,13 +6,14 @@
     <title>About Morgan Bell | Bluewater Homes</title>
     <meta name="description" content="Morgan Bell of Bluewater Homes, serving Sarnia &amp; Bright&#x27;s Grove, Ontario. Homes with heart on the shores of Lake Huron." />
     <link rel="canonical" href="https://bluewater-homes-demo.vercel.app/about.html" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /><link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="/assets/styles.css" />
     <meta property="og:site_name" content="Bluewater Homes" />
     <meta property="og:type" content="profile" />
     <meta property="og:title" content="About Morgan Bell | Bluewater Homes" />
     <meta property="og:description" content="Morgan Bell of Bluewater Homes, serving Sarnia &amp; Bright&#x27;s Grove, Ontario. Homes with heart on the shores of Lake Huron." />
     <meta property="og:url" content="https://bluewater-homes-demo.vercel.app/about.html" />
-    <meta property="og:image" content="https://bluewater-homes-demo.vercel.app/assets/hero.svg" />
+    <meta property="og:image" content="https://images.pexels.com/photos/8292786/pexels-photo-8292786.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" />
     <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -27,6 +28,7 @@
   "url": "https://bluewater-homes-demo.vercel.app/about.html",
   "telephone": "519-555-0148",
   "email": "morgan@bluewaterhomes.example",
+  "image": "https://images.pexels.com/photos/8292786/pexels-photo-8292786.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "knowsAbout": [
     "residential real estate",
     "waterfront homes",
@@ -36,30 +38,63 @@
     </script>
   </head>
   <body>
-    <header class="site">
-      <a class="brand" href="/">Bluewater Homes</a>
-      <nav>
-        <a href="/">Home</a>
-        <a href="/listings/">Listings</a>
-        <a href="/about.html">About</a>
-      </nav>
+    <header class="nav">
+      <div class="nav-in">
+        <a class="brand" href="/"><span class="brand-mark">BH</span> Bluewater Homes</a>
+        <nav class="nav-links">
+          <a href="/">Home</a>
+          <a href="/listings/">Listings</a>
+          <a href="/about.html">About</a>
+          <a class="btn btn-sm" href="/about.html#contact">Book a showing</a>
+        </nav>
+      </div>
     </header>
-    <main>
-      <section class="prose">
-        <h1>About Morgan Bell</h1>
-        <p>I'm Morgan Bell, the realtor behind Bluewater Homes. For over a
-        decade I've helped families buy and sell across Sarnia &amp; Bright&#x27;s Grove, Ontario, from first
-        condos near the water to waterfront homes in Bright's Grove.</p>
-        <p>My style is warm, local, and no-pressure. I'd rather you find the right home than the fast
-        one, and I know these streets, schools, and shorelines like my own backyard.</p>
-        <p><em>&ldquo;Homes with heart on the shores of Lake Huron.&rdquo;</em></p>
-        <p>Reach me at 519-555-0148 or morgan@bluewaterhomes.example.</p>
+    <main class="wrap">
+      <section class="section about">
+        <div class="about-photo"><img src="https://images.pexels.com/photos/8292786/pexels-photo-8292786.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Morgan Bell" /></div>
+        <div class="about-copy prose">
+          <p class="eyebrow">About</p>
+          <h1>Morgan Bell</h1>
+          <p>I'm Morgan Bell, the realtor behind Bluewater Homes. For over a decade I've helped families buy and sell across Sarnia &amp; Bright&#x27;s Grove, Ontario, from first condos near the water to waterfront homes in Bright's Grove.</p>
+          <p>My style is warm, local, and no-pressure. I'd rather you find the right home than the fast one, and I know these streets, schools, and shorelines like my own backyard.</p>
+          <p class="pull"><em>&ldquo;Homes with heart on the shores of Lake Huron.&rdquo;</em></p>
+          <div class="chips"><span>Local since 2012</span><span>260+ homes sold</span><span>5-star service</span></div>
+          <div id="contact" class="contact-card">
+            <h3>Book a showing</h3>
+            <p>Call or email and we'll find a time that works.</p>
+            <p class="contact-lines"><a href="tel:519-555-0148">519-555-0148</a><br /><a href="mailto:morgan@bluewaterhomes.example">morgan@bluewaterhomes.example</a></p>
+          </div>
+        </div>
       </section>
     </main>
-    <footer class="site">
-      <p><strong>Bluewater Homes</strong> &middot; Sarnia &amp; Bright&#x27;s Grove, Ontario</p>
-      <p>Morgan Bell &middot; 519-555-0148 &middot; morgan@bluewaterhomes.example</p>
-      <p class="fineprint">Sample site with synthetic listings, built to demo RealtyRecall. Not a real brokerage.</p>
+    <section class="cta">
+      <div class="wrap cta-in">
+        <div>
+          <h2>Thinking of buying or selling on the shoreline?</h2>
+          <p>Let's talk. No pressure, just honest local advice.</p>
+        </div>
+        <a class="btn btn-lg" href="tel:519-555-0148">Call 519-555-0148</a>
+      </div>
+    </section>
+    <footer class="foot">
+      <div class="wrap foot-in">
+        <div class="foot-brand">
+          <div class="brand"><span class="brand-mark">BH</span> Bluewater Homes</div>
+          <p>Homes with heart on the shores of Lake Huron.</p>
+          <p class="muted">Morgan Bell &middot; 519-555-0148<br />morgan@bluewaterhomes.example</p>
+        </div>
+        <div>
+          <h4>Listings</h4>
+          <ul><li><a href="/listings/rr-101.html">14 Zephyrwood Crescent</a></li><li><a href="/listings/rr-102.html">88 Maple Ridge Drive</a></li><li><a href="/listings/rr-103.html">7 Lakeshore Road</a></li><li><a href="/listings/rr-104.html">215 Christina Street North</a></li></ul>
+        </div>
+        <div>
+          <h4>Areas served</h4>
+          <ul><li>Sarnia</li><li>Bright's Grove</li><li>Point Edward</li><li>Corunna</li></ul>
+        </div>
+      </div>
+      <div class="wrap fineprint">
+        <p>Sample site with synthetic listings, built to demo <a href="https://realtyrecall.mahimai.ca">RealtyRecall</a>. Not a real brokerage. Photography via <a href="https://www.pexels.com">Pexels</a>.</p>
+      </div>
     </footer>
   </body>
 </html>

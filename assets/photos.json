@@ -1,0 +1,196 @@
+{
+  "hero": {
+    "id": 15375833,
+    "large2x": "https://images.pexels.com/photos/15375833/pexels-photo-15375833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "large": "https://images.pexels.com/photos/15375833/pexels-photo-15375833.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "medium": "https://images.pexels.com/photos/15375833/pexels-photo-15375833.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "photographer": "David Kanigan",
+    "photographer_url": "https://www.pexels.com/@david-kanigan-239927285",
+    "alt": "Charming white house by a lake in Darien, Connecticut, showcasing serene winter beauty."
+  },
+  "agent": {
+    "id": 8292786,
+    "large2x": "https://images.pexels.com/photos/8292786/pexels-photo-8292786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "large": "https://images.pexels.com/photos/8292786/pexels-photo-8292786.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "medium": "https://images.pexels.com/photos/8292786/pexels-photo-8292786.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "photographer": "RDNE Stock project",
+    "photographer_url": "https://www.pexels.com/@rdne",
+    "alt": "Confident female realtor standing next to a Sale Pending sign outside a house, showcasing success."
+  },
+  "listings": {
+    "RR-101": [
+      {
+        "id": 6538930,
+        "large2x": "https://images.pexels.com/photos/6538930/pexels-photo-6538930.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/6538930/pexels-photo-6538930.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/6538930/pexels-photo-6538930.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "Max Vakhtbovych",
+        "photographer_url": "https://www.pexels.com/@artbovich",
+        "alt": "Spacious modern living room with chic decor and open kitchen setup. Perfect for interior design inspiration."
+      },
+      {
+        "id": 2459,
+        "large2x": "https://images.pexels.com/photos/2459/stairs-home-loft-lifestyle.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/2459/stairs-home-loft-lifestyle.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/2459/stairs-home-loft-lifestyle.jpg?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "Life Of Pix",
+        "photographer_url": "https://www.pexels.com/@life-of-pix",
+        "alt": "Bright and modern loft interior featuring cozy furniture and industrial elements, perfect for urban living."
+      },
+      {
+        "id": 6670661,
+        "large2x": "https://images.pexels.com/photos/6670661/pexels-photo-6670661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/6670661/pexels-photo-6670661.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/6670661/pexels-photo-6670661.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "Huy Quang Nguy\u1ec5n",
+        "photographer_url": "https://www.pexels.com/@huy-quang-nguy-n-18652822",
+        "alt": "Chic living room with contemporary furniture and stylish decor, perfect for modern homes."
+      }
+    ],
+    "RR-102": [
+      {
+        "id": 20581396,
+        "large2x": "https://images.pexels.com/photos/20581396/pexels-photo-20581396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/20581396/pexels-photo-20581396.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/20581396/pexels-photo-20581396.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "Ho\u00e0i  Nam",
+        "photographer_url": "https://www.pexels.com/@hoinommm",
+        "alt": "A quaint brick bungalow nestled in a serene countryside setting, surrounded by lush greenery and mature trees."
+      },
+      {
+        "id": 3736487,
+        "large2x": "https://images.pexels.com/photos/3736487/pexels-photo-3736487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/3736487/pexels-photo-3736487.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/3736487/pexels-photo-3736487.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "K",
+        "photographer_url": "https://www.pexels.com/@kelly",
+        "alt": "A picturesque bungalow with a snow-covered roof and trees depicting a serene winter scene."
+      },
+      {
+        "id": 8031890,
+        "large2x": "https://images.pexels.com/photos/8031890/pexels-photo-8031890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/8031890/pexels-photo-8031890.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/8031890/pexels-photo-8031890.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "Curtis Adams",
+        "photographer_url": "https://www.pexels.com/@curtis-adams-1694007",
+        "alt": "A modern suburban home with a lush green lawn and landscaped garden."
+      }
+    ],
+    "RR-103": [
+      {
+        "id": 1438832,
+        "large2x": "https://images.pexels.com/photos/1438832/pexels-photo-1438832.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/1438832/pexels-photo-1438832.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/1438832/pexels-photo-1438832.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "Frans van Heerden",
+        "photographer_url": "https://www.pexels.com/@frans-van-heerden-201846",
+        "alt": "Luxury modern homes reflecting on a peaceful, clear lake during daylight, showcasing architectural beauty."
+      },
+      {
+        "id": 1915894,
+        "large2x": "https://images.pexels.com/photos/1915894/pexels-photo-1915894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/1915894/pexels-photo-1915894.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/1915894/pexels-photo-1915894.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "Vlad Che\u021ban",
+        "photographer_url": "https://www.pexels.com/@chetanvlad",
+        "alt": "Beautiful waterfront town by a lake with reflections of buildings, trees, and a pier under clear blue skies."
+      },
+      {
+        "id": 19227302,
+        "large2x": "https://images.pexels.com/photos/19227302/pexels-photo-19227302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/19227302/pexels-photo-19227302.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/19227302/pexels-photo-19227302.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "Curtis Adams",
+        "photographer_url": "https://www.pexels.com/@curtis-adams-1694007",
+        "alt": "Aerial view of waterfront homes and docks in Belhaven, NC on a sunny day."
+      }
+    ],
+    "RR-104": [
+      {
+        "id": 4703,
+        "large2x": "https://images.pexels.com/photos/4703/inside-apartment-design-home.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/4703/inside-apartment-design-home.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/4703/inside-apartment-design-home.jpg?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "Life Of Pix",
+        "photographer_url": "https://www.pexels.com/@life-of-pix",
+        "alt": "Sleek and modern loft with contemporary interior decor, featuring exposed brick and elegant accents."
+      },
+      {
+        "id": 8092188,
+        "large2x": "https://images.pexels.com/photos/8092188/pexels-photo-8092188.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/8092188/pexels-photo-8092188.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/8092188/pexels-photo-8092188.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "Max Vakhtbovych",
+        "photographer_url": "https://www.pexels.com/@artbovich",
+        "alt": "Spacious and bright loft with exposed brick, elegant decor, and modern furnishings."
+      },
+      {
+        "id": 5824486,
+        "large2x": "https://images.pexels.com/photos/5824486/pexels-photo-5824486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/5824486/pexels-photo-5824486.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/5824486/pexels-photo-5824486.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "Charlotte May",
+        "photographer_url": "https://www.pexels.com/@charlotte-may",
+        "alt": "Growing plant in pot on wooden stand near table with basket in aged house with brick wall"
+      }
+    ],
+    "RR-105": [
+      {
+        "id": 30580640,
+        "large2x": "https://images.pexels.com/photos/30580640/pexels-photo-30580640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/30580640/pexels-photo-30580640.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/30580640/pexels-photo-30580640.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "Karolina K",
+        "photographer_url": "https://www.pexels.com/@karolina-k-2149378526",
+        "alt": "Front view of twin modern houses with a symmetrical architectural design under a cloudy sky."
+      },
+      {
+        "id": 7710011,
+        "large2x": "https://images.pexels.com/photos/7710011/pexels-photo-7710011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/7710011/pexels-photo-7710011.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/7710011/pexels-photo-7710011.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "Get Lost Mike",
+        "photographer_url": "https://www.pexels.com/@michaelgaultphotos",
+        "alt": "A charming modern suburban home with a stone facade and a neatly maintained lawn."
+      },
+      {
+        "id": 31406334,
+        "large2x": "https://images.pexels.com/photos/31406334/pexels-photo-31406334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/31406334/pexels-photo-31406334.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/31406334/pexels-photo-31406334.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "Bingqian Li",
+        "photographer_url": "https://www.pexels.com/@bingqian-li-230971044",
+        "alt": "A contemporary suburban home with red brick and white facade in a sunny neighborhood setting."
+      }
+    ],
+    "RR-106": [
+      {
+        "id": 16808496,
+        "large2x": "https://images.pexels.com/photos/16808496/pexels-photo-16808496.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/16808496/pexels-photo-16808496.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/16808496/pexels-photo-16808496.png?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "David Brown",
+        "photographer_url": "https://www.pexels.com/@ninobur",
+        "alt": "Contemporary architecture glowing at twilight, showcasing sleek design and illuminated windows."
+      },
+      {
+        "id": 186077,
+        "large2x": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "Binyamin Mellish",
+        "photographer_url": "https://www.pexels.com/@binyaminmellish",
+        "alt": "Elegant suburban home with driveway at sunset showcasing modern architecture."
+      },
+      {
+        "id": 16811460,
+        "large2x": "https://images.pexels.com/photos/16811460/pexels-photo-16811460.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/16811460/pexels-photo-16811460.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/16811460/pexels-photo-16811460.png?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "David Brown",
+        "photographer_url": "https://www.pexels.com/@ninobur",
+        "alt": "Brightly lit modern house on a hill at dusk, showcasing urban residential architecture."
+      }
+    ]
+  }
+}
