@@ -253,6 +253,7 @@ def document_head(title: str, description: str, path: str, og_type: str, image: 
     <title>{esc(title)}</title>
     <meta name="description" content="{esc(description)}" />
     <link rel="canonical" href="{canonical}" />
+    <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg" />
     {FONTS}
     <link rel="stylesheet" href="/assets/styles.css" />
     <meta property="og:site_name" content="{esc(REALTOR['agency'])}" />
@@ -681,6 +682,13 @@ img{max-width:100%;display:block;}
 }
 """
 
+FAVICON = (
+    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">'
+    '<rect width="64" height="64" rx="14" fill="#0e2338"/>'
+    '<text x="32" y="44" font-family="Georgia, serif" font-size="30" font-weight="700" '
+    'fill="#c39a4d" text-anchor="middle">BH</text></svg>\n'
+)
+
 ROBOTS = f"User-agent: *\nAllow: /\nSitemap: {BASE_URL}/sitemap.xml\n"
 
 README = f"""# Bluewater Homes (sample realtor site)
@@ -714,8 +722,9 @@ def main() -> None:
     global PHOTOS
     print(f"Building {REALTOR['agency']} with BASE_URL={BASE_URL}")
     PHOTOS = load_photos()
-    for old in (ROOT / "assets").glob("*.svg"):  # drop the old placeholder art
+    for old in (ROOT / "assets").glob("*.svg"):  # drop stale art, then rewrite the favicon
         old.unlink()
+    write("assets/favicon.svg", FAVICON)
     write("index.html", render_home())
     write("about.html", render_about())
     write("listings/index.html", render_listings_index())
