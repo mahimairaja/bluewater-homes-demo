@@ -42,7 +42,8 @@ REALTOR = {
     "sold": "260+",
 }
 
-# Same six homes as RealtyRecall/demo/seed-listings.csv. `query` picks the Pexels photography.
+# The first six match RealtyRecall/demo/seed-listings.csv (so a CSV upload and a URL crawl
+# agree); RR-107..RR-109 add range. `query` picks the Pexels photography per listing.
 LISTINGS = [
     {
         "code": "RR-101", "slug": "rr-101", "street": "14 Zephyrwood Crescent",
@@ -85,6 +86,27 @@ LISTINGS = [
         "sqft": 2210, "query": "modern house exterior dusk",
         "desc": "Newer three-bed in a family neighbourhood near the golf course, with an open main floor and a double garage.",
         "features": ["Double garage", "Open main floor", "Near the golf course", "Newer build"],
+    },
+    {
+        "code": "RR-107", "slug": "rr-107", "street": "5 Harbourfront Mews",
+        "area": "Sarnia", "postal": "N7T 8B9", "price": 412000, "beds": 3, "baths": 2,
+        "sqft": 1340, "query": "modern townhouse exterior",
+        "desc": "Low-maintenance three-bed townhouse steps from the harbour, with a private patio and a single garage.",
+        "features": ["Steps to the harbour", "Private patio", "Single garage", "Low-maintenance living"],
+    },
+    {
+        "code": "RR-108", "slug": "rr-108", "street": "3110 London Line",
+        "area": "Sarnia", "postal": "N7W 1A2", "price": 689000, "beds": 4, "baths": 3,
+        "sqft": 2450, "query": "country house countryside",
+        "desc": "Four-bed country property on nearly an acre, with mature trees, a wraparound porch, and a heated shop.",
+        "features": ["Just under an acre", "Wraparound porch", "Heated shop", "Mature trees"],
+    },
+    {
+        "code": "RR-109", "slug": "rr-109", "street": "22 Old Lakeshore Road",
+        "area": "Bright's Grove", "postal": "N0N 1C0", "price": 915000, "beds": 4, "baths": 4,
+        "sqft": 3120, "query": "luxury modern living room interior",
+        "desc": "Custom-built four-bed on a premium lot, with vaulted ceilings, a spa ensuite, and a landscaped backyard oasis.",
+        "features": ["Vaulted ceilings", "Spa ensuite", "Backyard oasis", "Custom build"],
     },
 ]
 

@@ -191,6 +191,93 @@
         "photographer_url": "https://www.pexels.com/@ninobur",
         "alt": "Brightly lit modern house on a hill at dusk, showcasing urban residential architecture."
       }
+    ],
+    "RR-107": [
+      {
+        "id": 10628470,
+        "large2x": "https://images.pexels.com/photos/10628470/pexels-photo-10628470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/10628470/pexels-photo-10628470.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/10628470/pexels-photo-10628470.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "Curtis Adams",
+        "photographer_url": "https://www.pexels.com/@curtis-adams-1694007",
+        "alt": "A row of modern suburban townhouses with clean driveways and blue sky backdrop."
+      },
+      {
+        "id": 10486073,
+        "large2x": "https://images.pexels.com/photos/10486073/pexels-photo-10486073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/10486073/pexels-photo-10486073.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/10486073/pexels-photo-10486073.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "Curtis Adams",
+        "photographer_url": "https://www.pexels.com/@curtis-adams-1694007",
+        "alt": "Row of modern townhouses with spacious driveways and garage fronts under blue sky."
+      },
+      {
+        "id": 28403269,
+        "large2x": "https://images.pexels.com/photos/28403269/pexels-photo-28403269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/28403269/pexels-photo-28403269.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/28403269/pexels-photo-28403269.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "Shane Aldendorff",
+        "photographer_url": "https://www.pexels.com/@pluyar",
+        "alt": "Charming sunset reflection on modern Dutch townhouses in Almere, Netherlands."
+      }
+    ],
+    "RR-108": [
+      {
+        "id": 11496921,
+        "large2x": "https://images.pexels.com/photos/11496921/pexels-photo-11496921.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/11496921/pexels-photo-11496921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/11496921/pexels-photo-11496921.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "Vincent Delsuc",
+        "photographer_url": "https://www.pexels.com/@firststepkit",
+        "alt": "Beautiful rural landscape with a house and yellow field under a blue sky in Poland."
+      },
+      {
+        "id": 36201323,
+        "large2x": "https://images.pexels.com/photos/36201323/pexels-photo-36201323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/36201323/pexels-photo-36201323.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/36201323/pexels-photo-36201323.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "David Vives",
+        "photographer_url": "https://www.pexels.com/@david-vives-1474251",
+        "alt": "A breathtaking aerial view of farmland in Ciutadella, showcasing Spanish countryside beauty."
+      },
+      {
+        "id": 434634,
+        "large2x": "https://images.pexels.com/photos/434634/pexels-photo-434634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/434634/pexels-photo-434634.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/434634/pexels-photo-434634.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "Pixabay",
+        "photographer_url": "https://www.pexels.com/@pixabay",
+        "alt": "Charming farmhouse surrounded by vibrant fields and trees in a lush rural landscape."
+      }
+    ],
+    "RR-109": [
+      {
+        "id": 8082243,
+        "large2x": "https://images.pexels.com/photos/8082243/pexels-photo-8082243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/8082243/pexels-photo-8082243.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/8082243/pexels-photo-8082243.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "Max Vakhtbovych",
+        "photographer_url": "https://www.pexels.com/@artbovich",
+        "alt": "Stylish living room featuring a blue couch, chess set, lamps, and modern decor."
+      },
+      {
+        "id": 34688219,
+        "large2x": "https://images.pexels.com/photos/34688219/pexels-photo-34688219.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/34688219/pexels-photo-34688219.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/34688219/pexels-photo-34688219.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "Moussa Idrissi",
+        "photographer_url": "https://www.pexels.com/@mographe",
+        "alt": "Spacious modern living room with elegant sofas and stylish decor."
+      },
+      {
+        "id": 8135492,
+        "large2x": "https://images.pexels.com/photos/8135492/pexels-photo-8135492.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/8135492/pexels-photo-8135492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/8135492/pexels-photo-8135492.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "photographer": "Max Vakhtbovych",
+        "photographer_url": "https://www.pexels.com/@artbovich",
+        "alt": "Spacious modern living room featuring elegant chandeliers, plush sofa, and contemporary decor."
+      }
     ]
   }
 }

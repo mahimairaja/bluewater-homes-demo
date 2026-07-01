@@ -4,7 +4,7 @@ A **synthetic** real-estate site for a fictional agent, *Morgan Bell* of
 *Bluewater Homes* (Sarnia & Bright's Grove, Ontario). Every listing is made up.
 
 It exists so anyone can try [RealtyRecall](https://realtyrecall.mahimai.ca): paste this site's
-URL into the console and watch one link fan out into all 6 listings plus an
+URL into the console and watch one link fan out into all 9 listings plus an
 inferred realtor profile.
 
 Professional static site: schema.org JSON-LD, OpenGraph, and a sitemap, so onboarding extracts
