@@ -265,7 +265,7 @@ def document_head(title: str, description: str, path: str, og_type: str, image: 
   <body>
     <header class="nav">
       <div class="nav-in">
-        <a class="brand" href="/"><span class="brand-mark">BH</span> {esc(REALTOR['agency'])}</a>
+        <a class="brand" href="/"><span class="brand-mark" aria-hidden="true"></span>{esc(REALTOR['agency'])}</a>
         <nav class="nav-links">
           <a href="/">Home</a>
           <a href="/listings/">Listings</a>
@@ -293,7 +293,7 @@ def site_footer() -> str:
     <footer class="foot">
       <div class="wrap foot-in">
         <div class="foot-brand">
-          <div class="brand"><span class="brand-mark">BH</span> {esc(REALTOR['agency'])}</div>
+          <div class="brand"><span class="brand-mark" aria-hidden="true"></span>{esc(REALTOR['agency'])}</div>
           <p>{esc(REALTOR['tagline'])}</p>
           <p class="muted">{esc(REALTOR['name'])} &middot; {esc(REALTOR['phone'])}<br />{esc(REALTOR['email'])}</p>
         </div>
@@ -574,6 +574,7 @@ img{max-width:100%;display:block;}
 .nav-in{max-width:1140px;margin:0 auto;padding:14px 22px;display:flex;align-items:center;justify-content:space-between;}
 .brand{display:inline-flex;align-items:center;gap:10px;font-family:Fraunces,serif;font-weight:700;font-size:19px;color:var(--navy);}
 .brand-mark{display:inline-grid;place-items:center;width:34px;height:34px;border-radius:9px;background:var(--navy);color:var(--gold);font-size:14px;font-weight:700;letter-spacing:.02em;}
+.brand-mark::before{content:"BH";}
 .nav-links{display:flex;align-items:center;gap:22px;}
 .nav-links a{color:var(--ink);font-weight:600;font-size:15px;}
 .nav-links a.btn{color:#fff;}
